@@ -1,17 +1,21 @@
 # 🔐 Login/Signup Page with Firebase Realtime DB + FormSubmit
 
 <div align="center">
-  <img src="preview-image.png" alt="Form UI Preview" width="90%" />
+  <img src="login.png" alt="Form UI Preview" width="90%" />
+</div><br>
+
+<div align="center">
+  <img src="register.png" alt="Form UI Preview" width="90%" />
 </div>
 
 <p align="center">
   🚀 Sleek, animated authentication system powered by Firebase Realtime Database & FormSubmit. Fully responsive, no backend, just frontend magic ✨
 </p>
-
+<!---
 <p align="center">
   <a href="https://github.com/yourusername/your-repo-name"><img src="https://img.shields.io/github/stars/yourusername/your-repo-name?style=social" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge" /></a>
-</p>
+</p>--->
 
 ---
 
