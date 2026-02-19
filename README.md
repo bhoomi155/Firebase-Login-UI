@@ -21,7 +21,7 @@
 
 ## 🧠 Overview
 
-**Login/Signup UI** with a glowing, animated terminal-inspired style that:
+**Login/Signup UI** with a glowing, animated terminal-inspired style that :
 
 - Stores user credentials in **Firebase Realtime Database**
 - Sends registration details to your inbox via **FormSubmit**
