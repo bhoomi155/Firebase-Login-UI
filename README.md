@@ -53,7 +53,7 @@
 
 - **HTML5** — structure
 - **CSS3** — animations & responsive styling
-- **JavaScript (ES6)** — form logic
+- **JavaScript (ES6)** — form logic 
 - **Firebase** — Realtime Database connection
 - **FormSubmit** — serverless email sending
 - **Font Awesome** — for icons
