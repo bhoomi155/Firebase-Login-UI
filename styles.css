@@ -233,3 +233,25 @@ form {
     box-shadow: none;
     cursor: pointer;
 }
+
+.form-box.forgot {
+    position: absolute;
+    right: 0;
+    width: 50%;
+    height: 100%;
+    background: #f7f9fc;
+    display: none;
+    flex-direction: column;
+    justify-content: center;
+    color: #333;
+    padding: 40px;
+    z-index: 5;
+}
+
+.container.show-forgot .form-box.login {
+    display: none !important;
+}
+
+.container.show-forgot .form-box.forgot {
+    display: flex !important;
+}
