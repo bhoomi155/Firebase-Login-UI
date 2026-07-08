@@ -5,7 +5,7 @@
 </div><br>
 
 <div align="center">
-  <img src="register.png" alt="Form UI Preview" width="90%" />
+  <img src="register.png" alt="Form UI Preview" width="90%" /> 
 </div>
 
 <p align="center">
