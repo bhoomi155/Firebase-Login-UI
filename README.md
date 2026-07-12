@@ -1,4 +1,4 @@
-# 🔐 Login/Signup Page with Firebase Realtime DB + FormSubmit!!
+# 🔐 Login/Signup Page with Firebase Realtime DB + FormSubmit !!
 
 <div align="center">
   <img src="login.png" alt="Form UI Preview" width="90%" />
